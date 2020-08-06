@@ -1,2 +1,7 @@
 hhhhh
 long
+tic
+toc
+seek
+some
+sun
